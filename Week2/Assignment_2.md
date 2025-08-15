@@ -5,6 +5,7 @@ Division answers “how many times does b go into a?”. Formally, a / b = c mea
 -   If b = 0, then b × c = 0 for every value of c—there’s no unique answer. So the operation is undefined.
 
 From a limits viewpoint, as the divisor shrinks toward 0, the quotient grows without bound (tends to ±∞), which isn’t a real number; you can’t assign a consistent value at exactly 0 without breaking arithmetic.
+
 Programming languages reflect this: dividing by zero raises an error (e.g., ZeroDivisionError in Python) because the math itself has no well-defined result.
 
 - Video to share:
