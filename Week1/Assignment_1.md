@@ -1,7 +1,6 @@
 ## Figure out any problem which you can't solve on a classical computer
 
 **1. The Halting Problem (Undecidable)**
-
 This is the classic example, discovered by Alan Turing in 1936.
 
 **Problem**: Can a computer program determine whether another program will eventually stop (halt) or run forever?
@@ -20,13 +19,11 @@ This was part of David Hilbert’s goal to formalize all mathematics. Turing and
 **Answer**: No. Some truths can't be proven using any formal system.
 
 **3. Gödel’s Incompleteness Theorems**
-
 These don’t describe computing problems per se, but they limit what any logic-based system (including software) can prove or solve.
 
 **Main idea**: In any powerful enough system, there will always be true statements that cannot be proven within that system.
 
 **4. Problems Too Complex (Intractable)**
-
 Even if a problem is theoretically solvable, it might be computationally infeasible (i.e., would take more time than the age of the universe).
 -    Example: Traveling Salesman Problem for 10,000 cities (NP-Hard)
 -    No known efficient algorithms exist for some of these problems
