@@ -28,25 +28,30 @@ Even if a problem is theoretically solvable, it might be computationally infeasi
 ## Find out what sort of physical technologies are currently being worked on to build and generate cubits
 
 **Superconducting Qubits**
+
 -    How It Works: Uses superconducting circuits cooled near absolute zero to create quantized energy states.
 -    Pros: Mature technology, good scalability, supported by major companies.
 -    Cons: Requires extreme cooling, still prone to errors.
 -    Current Leaders: IBM, Google, Rigetti.
+
 **Trapped Ion Qubits**
 -    How It Works: Uses ions trapped in electromagnetic fields; qubits stored in ions’ internal states, manipulated by lasers.
 -    Pros: Very stable qubits, long coherence times.
 -    Cons: Slow gate speeds, scaling is harder.
 -    Current Leaders: IonQ, Quantinuum.
+
 **Spin Qubits (Quantum Dots)**
 -    How It Works: Uses the spin of electrons in semiconductor nanostructures.
 -    Pros: Smaller and potentially integrable with existing chip technology.
 -    Cons: Fabrication and control challenges.
 -    Current Leaders: Intel, Delft University.
 **Photonic Qubits**
+
 -    How It Works: Encodes qubits in photons’ polarization or path.
 -    Pros: Works at room temperature, easy to transmit over distance.
 -    Cons: Photon losses, requires efficient single-photon sources.
 -    Current Leaders: Xanadu, PsiQuantum.
+
 **Topological Qubits**
 -    How It Works: Uses exotic quasiparticles (anyons) that store information in their braiding (topology).
 -    Pros: Theoretically very resistant to errors.
