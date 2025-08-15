@@ -45,8 +45,8 @@ Even if a problem is theoretically solvable, it might be computationally infeasi
 -    Pros: Smaller and potentially integrable with existing chip technology.
 -    Cons: Fabrication and control challenges.
 -    Current Leaders: Intel, Delft University.
-**Photonic Qubits**
 
+**Photonic Qubits**
 -    How It Works: Encodes qubits in photons’ polarization or path.
 -    Pros: Works at room temperature, easy to transmit over distance.
 -    Cons: Photon losses, requires efficient single-photon sources.
