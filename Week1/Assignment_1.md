@@ -2,19 +2,19 @@
 
 ## 🧩 1. The Halting Problem (Undecidable)
 This is the classic example, discovered by Alan Turing in 1936.
-    💡 Problem: Can a computer program determine whether another program will eventually stop (halt) or run forever?
-        Answer: No, it’s impossible to create a program that correctly solves this for all other programs.
+💡 Problem: Can a computer program determine whether another program will eventually stop (halt) or run forever?
+Answer: No, it’s impossible to create a program that correctly solves this for all other programs.
 ✅ Works for some cases.
 ❌ But a universal solution doesn't exist.
 
 ## 🚫 2. The Entscheidungsproblem (Decision Problem)
 This was part of David Hilbert’s goal to formalize all mathematics. Turing and Gödel proved it’s impossible.
-    💡 Problem: Can a machine decide whether any given mathematical statement is provable?
+💡 Problem: Can a machine decide whether any given mathematical statement is provable?
 Answer: No. Some truths can't be proven using any formal system.
 
 ## ⛔ 3. Gödel’s Incompleteness Theorems
 These don’t describe computing problems per se, but they limit what any logic-based system (including software) can prove or solve.
-    💡 Main idea: In any powerful enough system, there will always be true statements that cannot be proven within that system.
+💡 Main idea: In any powerful enough system, there will always be true statements that cannot be proven within that system.
 
 ## 📉 4. Problems Too Complex (Intractable)
 Even if a problem is theoretically solvable, it might be computationally infeasible (i.e., would take more time than the age of the universe).
@@ -24,7 +24,6 @@ Even if a problem is theoretically solvable, it might be computationally infeasi
 
 
 # Find out what sort of physical technologies are currently being worked on to build and generate cubits
-
 
 ## Superconducting Qubits
     • How It Works: Uses superconducting circuits cooled near absolute zero to create quantized energy states.
