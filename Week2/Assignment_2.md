@@ -19,7 +19,7 @@ Programming languages reflect this: dividing by zero raises an error (e.g., Zero
 -   50 Hz AC – Common in Europe, Asia, Africa, Australia, NZ.
 -   60 Hz AC – Common in USA, Canada, Philippines, parts of South America, some Asian countries.
 
-**2. Country Examples***
+**2. Country Examples**
 -   50 Hz (220–240 V): UK, NZ, Australia, India, South Africa.
 -   60 Hz (110–120 V): USA, Canada, Mexico.
 -   60 Hz (220–240 V): Philippines, Saudi Arabia.
