@@ -1,6 +1,4 @@
-## Research Task on Division by Zero: Need to figure out why division by zero is not possible and be prepared to share some videos about it in the next class.
-
-# Why division by zero isn’t possible.
+## Why division by zero isn’t possible.
 Division answers “how many times does b go into a?”. Formally, a / b = c means a = b × c.
     • If b ≠ 0, there’s a unique c that satisfies the equation.
     • If b = 0, then b × c = 0 for every value of c—there’s no unique answer. So the operation is undefined.
